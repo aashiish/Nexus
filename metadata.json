@@ -1,0 +1,5 @@
+{
+  "name": "Nexus 1.4",
+  "description": "Nexus - Prior-art ovelap checker: A tool that reviews and interprets prior art documents to determine their applicability against specific patent claims for invalidation purposes.",
+  "requestFramePermissions": []
+}
